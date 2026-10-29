@@ -45,7 +45,7 @@ function App() {
   ];
  
   const notifikasiSapaan = () => { 
-    alert('Selamat! Anda berhasil menyelesaikan seluruh rangkaian Tugas 1 Praktikum Pemrograman Web.'); 
+    alert('Penyelesaian Tugas 1 Praktikum Pemrograman Web oleh Deni Firmansyah (NPM: 243040064) telah berhasil ditampilkan!'); 
   }; 
  
   return ( 
