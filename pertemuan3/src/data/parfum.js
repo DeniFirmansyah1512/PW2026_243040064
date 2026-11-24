@@ -1,0 +1,58 @@
+export const daftarParfum = [
+  {
+    id: "creed-aventus",
+    nama: "Creed Aventus",
+    brand: "Creed",
+    kategori: "Fruity Chypre",
+    harga: "Rp 4.850.000",
+    konsentrasi: "Eau de Parfum (100ml)",
+    gradasi: "from-amber-400 via-orange-500 to-rose-600",
+    glow: "shadow-orange-500/30",
+    badge: "Best Seller",
+    notes: "Pineapple, Bergamot, Birch, Musk, Oakmoss",
+    deskripsi:
+      "Aroma ikonik dengan perpaduan nanas segar yang tajam dan sentuhan kayu birch yang maskulin serta berwibawa.",
+  },
+  {
+    id: "lv-imagination",
+    nama: "Louis Vuitton Imagination",
+    brand: "Louis Vuitton",
+    kategori: "Citrus Aromatic",
+    harga: "Rp 5.400.000",
+    konsentrasi: "Eau de Parfum (100ml)",
+    gradasi: "from-cyan-400 via-sky-500 to-indigo-600",
+    glow: "shadow-cyan-500/30",
+    badge: "Fresh Luxury",
+    notes: "Citron, Calabrian Bergamot, Neroli, Ceylon Cinnamon, Black Tea",
+    deskripsi:
+      "Kesegaran citrus mewah yang dipadukan dengan teh hitam Cina dan ambroxan, memberikan kesan bersih dan elegan sepanjang hari.",
+  },
+  {
+    id: "mfk-baccarat",
+    nama: "Baccarat Rouge 540",
+    brand: "Maison Francis Kurkdjian",
+    kategori: "Amber Floral",
+    harga: "Rp 4.200.000",
+    konsentrasi: "Eau de Parfum (70ml)",
+    gradasi: "from-fuchsia-500 via-pink-500 to-rose-600",
+    glow: "shadow-pink-500/30",
+    badge: "Iconic",
+    notes: "Saffron, Jasmine, Amberwood, Ambergris, Fir Resin",
+    deskripsi:
+      "Aroma manis kristal dari saffron dan amberwood yang meninggalkan jejak wangi mewah dan memikat di setiap langkah.",
+  },
+  {
+    id: "ysl-tuxedo",
+    nama: "YSL Tuxedo",
+    brand: "Yves Saint Laurent",
+    kategori: "Warm Spicy",
+    harga: "Rp 3.950.000",
+    konsentrasi: "Eau de Parfum (125ml)",
+    gradasi: "from-emerald-400 via-teal-500 to-cyan-600",
+    glow: "shadow-emerald-500/30",
+    badge: "Evening Wear",
+    notes: "Violet Leaf, Coriander, Rose, Patchouli, Ambergris",
+    deskripsi:
+      "Karakter rempah hangat yang dipadukan dengan patchouli gelap, dirancang khusus untuk acara formal malam hari.",
+  },
+];
